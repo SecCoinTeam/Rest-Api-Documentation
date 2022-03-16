@@ -1,6 +1,4 @@
-# Rest-Api-Documentation
-
-## API Endpoints
+## SecCoin Api documentation
 
 - User data
   - `/users/<username>` - Retorna as infos do usuario
