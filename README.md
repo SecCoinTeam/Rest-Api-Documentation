@@ -13,7 +13,6 @@
 
 - Saldo
   - `/balances` - retorna o saldo de todos os usuários
-  - `/balances/<username>` - retorna um saldo de um usuário específico
 
 - Outros
   - `/statistics` - retorna as estatísticas do servidor
